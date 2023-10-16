@@ -1,0 +1,166 @@
+
+.total {
+    font-family: Arial, sans-serif;
+    background-image: url(bg.png);
+    background-size: cover;
+    height: 300vh;
+    background-position: center;
+    width: 100%;
+}
+
+header {
+    background-color: #941515;
+    color: #f32727;
+    padding: 20px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    font-size: 24px;
+    text-decoration-style: solid;
+}
+
+nav ul li {
+    margin: 0 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 50px;
+    text-decoration: solid;
+}
+
+ul li a:hover {
+    text-decoration: underline;
+    color: rgb(74, 18, 243);
+}
+.about{
+    width: 98%;
+    height: 400px;
+    background-color:transparent;
+    text-align: center;
+    font-size: 60px;
+    font-weight: bold;
+    padding-top: 100px;
+    color: brown;
+    border: 2px;
+    color: #941515;
+    border-color: black;
+}.experience{
+ height: 300px;
+ width: 100%;
+ background: transparent;
+ text-align: center;
+
+}
+.edu1{
+   width: 33%;
+   height:250px;
+   padding-left: 2px;
+   padding-right: 2px;
+   float: left;
+   padding-top: 20px;
+   font-size: 25px;
+}
+.edu2{
+    width: 33%;
+    height:250px;
+    padding-left: 2px;
+    padding-right: 2px;
+    float: left;
+    padding-top: 20px;
+    font-size: 25px;
+}
+ 
+ .edu3{
+    width: 33%;
+    height:250px;
+    padding-left: 2px;
+    padding-right: 2px;
+    float: left;
+    padding-top: 20px;
+    font-size: 25px;
+}
+.projects{
+    height: 300px;
+    width: 100%;
+    background: transparent;
+    text-align: center;
+    padding-top:100px ;
+   
+   }
+   .pro1{
+      width: 45%;
+      height:250px;
+      padding-left: 2px;
+      padding-right: 2px;
+      float: left;
+      padding-top: 20px;
+      font-size: 40px;
+   }
+   .pro2{
+       width: 50%;
+       height:250px;
+       padding-left: 2px;
+       padding-right: 2px;
+       float: left;
+       padding-top: 20px;
+       font-size: 40px;
+   }
+   h2{
+    color: #f32727;
+   }
+   h1{
+    color: rgb(70, 6, 246);
+   }
+    .skills{
+        width: 100%;
+        height: 900px;
+        text-align: center;
+        font-size: 40px;
+        padding-top: 80px;
+        float: left;
+    }
+    .sk{
+        font-size: 20px;
+        text-align: center;
+        
+    }
+   .contact{
+    width: 100%;
+    height: 100px;
+   }
+   .yt{
+    width: 30%;
+    height: 100px;
+    padding: 20px;
+
+   }
+   
+.yt{
+ width: 30%;
+ height: 100px;
+ padding: 20px;
+ float: left;
+
+}
+   
+   .need{
+      text-align: center;
+      color: black;}
+   .ln{
+    width: 30%;
+    height: 100px;
+    padding: 20px;
+    float: left;
+   
+   }
+   .gt{
+    width: 33%;
+    padding: 20px;
+    float: left;
+   
+   }
